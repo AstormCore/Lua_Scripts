@@ -1,2 +1,4 @@
-# Lua_Scripts
-Paquete de Scripts LUA para AzerothCore Y TrinityCore
+# LUA SCRIPT PARA AZEROTHCORE Y TRINITYCORE
+- En este repositorio encontrará varios scripts LUAS para el módulo ELUNA
+# REPOSITORIO EN EDICIÓN.
+- ESTE REPOSITORIO SE ENCUENTRA ACTUALMENTE EN EDICIÓN VUELVA MÁS TARDE
