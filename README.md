@@ -1,4 +1,4 @@
 # LUA SCRIPT PARA AZEROTHCORE Y TRINITYCORE
-- En este repositorio encontrará varios scripts LUAS para el módulo ELUNA
+- En este repositorio encontrará varios scripts LUAS para el módulo ELUNA arreglados y modificados por SKYNET
 # REPOSITORIO EN EDICIÓN.
 - ESTE REPOSITORIO SE ENCUENTRA ACTUALMENTE EN EDICIÓN VUELVA MÁS TARDE
